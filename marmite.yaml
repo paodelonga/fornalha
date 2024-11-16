@@ -4,9 +4,21 @@ url: https://paodelonga.github.io/marmita
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
+  - ["Authors", "authors.html"]
   - ["Tags", "tags.html"]
   - ["Follow me", "https://bolha.us/@paodelonga"]
   - ["Github", "https://github.com/paodelonga/marmita"]
+authors:
+  paodelonga:
+    name: Paodelonga
+    avatar: "https://avatars.githubusercontent.com/u/72471292"
+    bio: Writer
+    links:
+      - ["Github", "https://github.com/paodelonga"]
+      - ["Bluesky", "https://bsky.app/profile/paodelonga.bsky.social"]
+      - ["Linkedin", "https://linkedin.com/in/paodelonga"]
+      - ["Wakatime", "https://wakatime.com/@paodelonga1"]
+      - ["Mail", "mailto:paodelonga@proton.me"]
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html
