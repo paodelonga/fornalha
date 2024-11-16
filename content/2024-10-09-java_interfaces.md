@@ -2,6 +2,7 @@
 date: 2024-10-09 05:40:02
 title: Java Interfaces
 tags: java, abstraction, polymorphism, object-oriented, programming, copy-only, translation
+authors: paodelonga
 ---
 
 # Interfaces

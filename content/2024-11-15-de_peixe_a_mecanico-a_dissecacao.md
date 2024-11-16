@@ -1,6 +1,7 @@
 ---
 date: 2024-11-15 20:46:08
 tags: programming, handicraft, eletronics, gambiarra, idkwdbw
+authors: paodelonga
 ---
 
 # De peixe a mecânico: dissecação
