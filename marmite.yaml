@@ -1,23 +1,29 @@
 name: Fornalha
-tagline: Things you talk about
-url: https://paodelonga.github.io/marmita
+
+tagline: ssssshhhhhhhhhhhhhhhhhhhhhhhh!
+
+url: "https://paodelonga.github.io/fornalha"
+
+enable_search: true
+
 menu:
   - ["About", "about.html"]
+  - ["Archive", "archive.html"]
   - ["Pages", "pages.html"]
   - ["Authors", "authors.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://bolha.us/@paodelonga"]
   - ["Github", "https://github.com/paodelonga/marmita"]
+
 authors:
   paodelonga:
     name: Paodelonga
-    avatar: "https://avatars.githubusercontent.com/u/72471292"
+    avatar: "https://github.com/paodelonga.png"
     bio: Writer
     links:
       - ["Github", "https://github.com/paodelonga"]
       - ["Bluesky", "https://bsky.app/profile/paodelonga.bsky.social"]
       - ["Linkedin", "https://linkedin.com/in/paodelonga"]
-      - ["Wakatime", "https://wakatime.com/@paodelonga1"]
+      - ["Wakatime", "https://wakatime.com/@paodelonga"]
       - ["Mail", "mailto:paodelonga@proton.me"]
 
 # More options available to customize the website
