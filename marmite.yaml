@@ -18,13 +18,9 @@ authors:
   paodelonga:
     name: Paodelonga
     avatar: "https://github.com/paodelonga.png"
-    bio: Writer
+    bio: Eu exprimo frases
     links:
-      - ["Github", "https://github.com/paodelonga"]
-      - ["Bluesky", "https://bsky.app/profile/paodelonga.bsky.social"]
-      - ["Linkedin", "https://linkedin.com/in/paodelonga"]
-      - ["Wakatime", "https://wakatime.com/@paodelonga"]
-      - ["Mail", "mailto:paodelonga@proton.me"]
+      - ["Website", "https://paodelonga.dev"]
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html
