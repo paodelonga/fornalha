@@ -1,5 +1,5 @@
 ---
-date: 2024-06-03 00:55:00
+date: 2025-06-03 00:55:00
 title: Human-in-the-loop, diabeisso?
 tags: balela, programming, translation, atomic_notes, machine_learning, artificial_intelligence, linkedin, hitl, software_development
 authors: paodelonga
